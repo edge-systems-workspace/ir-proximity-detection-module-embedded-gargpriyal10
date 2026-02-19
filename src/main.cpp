@@ -2,8 +2,8 @@
 /**
  * @file main.cpp
  * @brief Embedded Obstacle Detection System using IR Sensor
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author PRIYAL GARG
+ * @date 2026-02-19
  *
  * @details
  * Reads digital input from IR sensor
